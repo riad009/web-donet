@@ -85,9 +85,72 @@ body {
     padding-left: 400px;
     height: 10px;
     width: 500px;
+    padding-bottom: 50px;
 }
 
 #amount {
     text-align: center;
     color: rgba(129, 112, 112, 0.619);
+
+}
+
+#now {
+
+    text-align: center;
+}
+
+.middle-second {
+
+    text-align: center;
+}
+
+
+
+.bix-box {
+
+    background-color: red;
+}
+
+.three-box {
+
+    padding-top: 50px;
+
+    width: 70%;
+    margin-left: 15%;
+
+
+
+}
+
+.bold {
+    font-size: xx-large;
+    padding-right: 10px;
+}
+
+#one {
+
+
+
+    width: 40%;
+    margin-right: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: rgba(231, 224, 237, 0.411);
+}
+
+#two {
+
+    width: 40%;
+    margin-right: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: rgba(237, 121, 67, 0.484);
+}
+
+#three {
+    width: 40%;
+    margin-right: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: rgba(213, 206, 83, 0.388);
 }
