@@ -1,0 +1,93 @@
+body {
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+
+
+.top-let {
+
+    background-image: url(images/top-dark.jpg);
+    color: rgb(249, 244, 244);
+    padding-top: 40px;
+    text-align: center;
+
+}
+
+.span-small {
+
+    font-size: 10px;
+    color: rgb(182, 182, 192);
+}
+
+.button {
+
+    color: rgb(246, 241, 242);
+    background-color: rgb(239, 98, 59);
+    border-radius: 2px;
+    text-decoration: none;
+    padding: 8px 10px;
+    font-size: 12px;
+
+
+}
+
+.top-donate {
+    padding-bottom: 20px;
+}
+
+.div-top {
+
+    padding-bottom: 50px;
+}
+
+.div-middle {
+    padding-top: 35px;
+    text-align: center;
+}
+
+.middle-span-small {
+    font-size: 10px;
+    color: rgb(182, 182, 192);
+    text-align: center;
+
+}
+
+.flex {
+    display: flex;
+
+}
+
+.box {
+    width: 50px;
+    margin-right: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: rgba(231, 224, 237, 0.411);
+}
+
+#div {
+    margin-left: 410px;
+
+
+}
+
+#div-2 {
+    background-color: rgba(237, 143, 143, 0.502);
+    border: 2px solid red;
+
+
+}
+
+.hr {
+    padding-top: 50px;
+    padding-left: 400px;
+    height: 10px;
+    width: 500px;
+}
+
+#amount {
+    text-align: center;
+    color: rgba(129, 112, 112, 0.619);
+}
